@@ -1,3 +1,14 @@
+<h1 align="center">
+  <span>Hi, I'm Zyad Wael</span> 
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</h1>
+
+<p align="center">
+  <i>🚀 Flutter Developer | Turning complex problems into elegant, high-performance mobile experiences</i>
+</p>
+
+
+
 # 💫 About Me:
 🚀 Building high-performance Flutter applications with modern UI/UX<br>👯 Open to collaborating on innovative mobile app projects<br>🤝 Exploring scalable backend systems & cloud integration<br>🌱 Learning AI-powered app workflows and clean architecture<br>💬 Ask me about Flutter, Firebase, APIs, state management & app optimization<br>⚡ Passionate about creating smooth and visually polished mobile experiences
 
