@@ -13,8 +13,11 @@
 🚀 Building high-performance Flutter applications with modern UI/UX<br>👯 Open to collaborating on innovative mobile app projects<br>🤝 Exploring scalable backend systems & cloud integration<br>🌱 Learning AI-powered app workflows and clean architecture<br>💬 Ask me about Flutter, Firebase, APIs, state management & app optimization<br>⚡ Passionate about creating smooth and visually polished mobile experiences
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/abdul-wahab-37a791154) 
+## 🔗 Connect with Me
+<p> 
+  <a href="https://www.linkedin.com/in/abdul-wahab-37a791154/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> 
+  <a href="mailto:awramzani@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> 
+</p>
 
 ## 🛠 **Tech Stack**
 <p>
@@ -40,12 +43,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-## 🔗 Connect with Me
-<p> 
-  <a href="https://www.linkedin.com/in/abdul-wahab-37a791154/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> 
-  <a href="mailto:awramzani@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> 
-</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=awramzani&icon=0&color=6)](https://visitcount.itsvg.in)
