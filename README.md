@@ -42,6 +42,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=awramzani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+## 🔗 Connect with Me
+<p> 
+  <a href="https://www.linkedin.com/in/abdul-wahab-37a791154/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> 
+  <a href="mailto:awramzani@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> 
+</p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=awramzani&icon=0&color=6)](https://visitcount.itsvg.in)
 
